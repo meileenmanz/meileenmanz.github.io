@@ -1,0 +1,6 @@
+title: "Mi Portafolio"
+description: "Portafolio personal de Meileen Manzanilla"
+baseurl: "/meileenmanz.github.io" # Usa el nombre de tu repositorio si no es el repositorio principal
+url: "https://meileenmanz.github.io" # La URL de tu repositorio en GitHub Pages
+
+theme: "minimal-mistakes-jekyll"  # Asegúrate de que el nombre del tema sea correcto
