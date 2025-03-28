@@ -1,20 +1,14 @@
 ---
-layout: default
-title: Portafolio de Meileen Manzanilla
+layout: home
+title: "Meileen Manzanilla - GIS Portfolio"
+author_profile: true
 ---
+## Welcome to My GIS Portfolio 🌍  
 
-# Bienvenidos a mi Portafolio
+I am a **Geodetic Engineer** specializing in **GIS, Remote Sensing, and Spatial Analysis**.  
+This portfolio showcases my work in geospatial data science, cartography, and mapping projects.  
 
-Aquí puedes encontrar proyectos de análisis geoespacial y GIS que he realizado. Cada proyecto incluye una descripción detallada, las herramientas utilizadas y los resultados obtenidos.
+### 🔥 Featured Project  
+- **[Area Impacted by Wildfire in California (2012-2022)](/projects/wildfire-impact/)**  
 
-## Proyectos Destacados
-
-### 1. Proyecto de Mapa de Accidentes en San Antonio
-- **Descripción**: Un análisis de los accidentes en San Antonio y sus patrones.
-- **Herramientas**: ArcGIS, Python (GeoPandas).
-- **Ver Proyecto**: [Enlace al proyecto](https://github.com/tu-usuario/proyecto1)
-
-### 2. Índice de Vegetación en Texas (NDVI)
-- **Descripción**: Análisis de imágenes satelitales para evaluar la vegetación en Texas.
-- **Herramientas**: ArcGIS Pro, Python (Rasterio).
-- **Ver Proyecto**: [Enlace al proyecto](https://github.com/tu-usuario/proyecto2)
+Explore more in the **Projects** section. 🚀  
